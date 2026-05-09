@@ -1,49 +1,36 @@
 # Apple Landing Page
 
-Apple/iPhone temali responsiv landing page layihesi. Sehife `HTML` ve `CSS` ile hazirlanib, lokal sekillerden ve Font Awesome ikonlarindan istifade edir.
+An Apple/iPhone themed responsive landing page. The project is built with `HTML` and `CSS`, using local image assets and Font Awesome icons.
 
-## Layihenin Terkibi
+## Project Structure
 
-- `apple.html` - esas HTML sehifesi
-- `style/reset.css` - default browser stillerini sifirlayan CSS
-- `style/style.css` - sehifenin esas dizayni ve responsiv stilleri
-- `img/` - sehifede istifade olunan sekiller ve ikonlar
-- `favicon.ico` - sayt ikonu
+- `apple.html` - main HTML page
+- `style/reset.css` - CSS reset file
+- `style/style.css` - main styles and responsive design
+- `img/` - images and icons used on the page
+- `favicon.ico` - website favicon
 
-## Xususiyyetler
+## Features
 
-- Apple stilinde navbar
-- Mobil menu
-- iPhone mehsul bolmeleri
-- Sekilli bannerler
-- Mehsul kartlari
-- Responsiv dizayn
+- Apple-style navigation bar
+- Mobile menu
+- iPhone product sections
+- Image-based banners
+- Product cards
+- Responsive layout
 
-## Isletmek
+## How to Run
 
-Layiheni isletmek ucun elave qurasdirma lazim deyil.
+No installation is required to run this project.
 
-1. Fayllari kompüterine yukle.
-2. `apple.html` faylini brauzerde ac.
+1. Download or clone the project files.
+2. Open `apple.html` in your browser.
 
-Alternativ olaraq VS Code-da **Live Server** extension-u ile aça bilersen.
+You can also open the project with the **Live Server** extension in VS Code.
 
-## GitHub-a Yuklemek
 
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/USERNAME/REPO.git
-git push -u origin main
-```
-
-`USERNAME` ve `REPO` hisselerini oz GitHub melumatlarinla evez et.
-
-## Texnologiyalar
+## Technologies
 
 - HTML5
 - CSS3
 - Font Awesome
-
